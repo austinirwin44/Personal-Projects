@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-# obtain the html text from the website
+# obtain the html from the website
 html_text = requests.get('https://www.scrapethissite.com/pages/simple/').text
 
 soup = BeautifulSoup(html_text, 'lxml')
@@ -24,7 +24,7 @@ country_pop = [pop.get_text(strip=True) for pop in country_pop_html]
 country_area_kmsq_html = soup.find_all('span', class_='country-area')
 country_area_kmsq = [area.get_text(strip=True) for area in country_area_kmsq_html]
 
-# create a data frame from the obtained lists
+# create a DataFrame from the obtained lists
 countries = pd.DataFrame({'Name' : country_name,
                           'Capital' : country_capital,
                           'Population' : country_pop,
