@@ -91,6 +91,9 @@ for soup in soups:
     clean_pm = [i.get_text(strip=True) for i in pm]
     plus_minus.extend(clean_pm)
 
+# convert empty values of ot_losses into zeroes
+ot_losses = list(map(lambda x: '0' if x == '' else x, ot_losses))
+
 # create a DataFrame from the obtained lists
 nhl_team_stats = pd.DataFrame({'team_name': team_name,
                                'year': year,
@@ -103,3 +106,14 @@ nhl_team_stats = pd.DataFrame({'team_name': team_name,
                                'plus_minus': plus_minus})
 
 print(nhl_team_stats.head())
+
+# convert columns to the proper data types
+nhl_team_stats = nhl_team_stats.astype({'team_name': 'str',
+                               'year': 'int',
+                               'wins': 'int',
+                               'losses': 'int',
+                               'ot_losses': 'int',
+                               'win_percentage': 'float',
+                               'goals_for': 'int',
+                               'goals_against': 'int',
+                               'plus_minus': 'int'})
