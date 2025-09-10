@@ -1,9 +1,7 @@
 # Machine Learning Project 1 - Credit Card Fraud Prediction
 For this project, I developed a random forest classifier built to detect fraudulent credit card transactions. I obtained a simulated dataset from Kaggle, which I used to develop features, train and test the model. The dataset was very imbalanced with very few cases of fraud. This prompted me to use undersampling to see if I could improve the model's ability to detect cases of fraud.
-### Chosen Machine Learning Method
-I chose to use a random forest classifier for this project. 
 ### Feature Engineering
-I developed several features for this project.
+I developed several features for this project. While some categorical variables required simple encodings, I devloped some other more complicated features. For starters, I developed a cyclic time feature, in order to capture the closeness between times late in the evening and times early in the morning. Furthermore, I developed an age feature, which compares the date of birth with the time of transaction. It may be that older people are more prone to being the victims of credit card fraud. Lastly, I developed a feature for distance between the owner's home and the location of the transaction. I had to compute the haversine distance, which computes distance between two points on a sphere, based on their latitude and longitude.
 ### Results
 The results were compelling, with a precision of 0.95 and a recall of 0.73 for the original model. After performing undersampling, the model achieved a precision of 0.14 and a recall of 0.96. This means that without undersampling, the model detected less cases of fraud, but had fewer false positives. The model with undersampling however, detected a much larger proportion of fraudulent credit card transactions, but had way more false positives. 
 It would be advisable to explore more machine learining alternatives, such XGBoost. This would potentially yield improved model performance. Additionally, the performance of one model over the other depends on the business needs. For instance, if it is crucial to detect as much fraud as possible, then the second model would be preferred. 
