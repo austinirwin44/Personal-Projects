@@ -1,5 +1,7 @@
 # Machine Learning Project 1 - Credit Card Fraud Prediction
 For this project, I developed a random forest classifier built to detect fraudulent credit card transactions. I obtained a simulated dataset from Kaggle, which I used to develop features, train and test the model. The dataset was very imbalanced with very few cases of fraud. This prompted me to use undersampling to see if I could improve the model's ability to detect cases of fraud.
+### Dataset
+The dataset used was retrieved from Kaggle, and it is called "Credit Card Transactions Fraud Detection Dataset". The data file and data description can be found here: [text](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 ### Feature Engineering
 I developed several features for this project. While some categorical variables required simple encodings, I devloped some other more complicated features. For starters, I developed a cyclic time feature, in order to capture the closeness between times late in the evening and times early in the morning. Furthermore, I developed an age feature, which compares the date of birth with the time of transaction. It may be that older people are more prone to being the victims of credit card fraud. Lastly, I developed a feature for distance between the owner's home and the location of the transaction. I had to compute the haversine distance, which computes distance between two points on a sphere, based on their latitude and longitude.
 ### Results
