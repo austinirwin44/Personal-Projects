@@ -1,2 +1,2 @@
-# Data-Science-Projects
-This repository contains my personal data science projects. 
+# Personal-Projects
+This repository contains my personal coding projects. 
