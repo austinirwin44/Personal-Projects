@@ -1,0 +1,1786 @@
+{
+    "statistics": [
+        {
+            "period": "ALL",
+            "groups": [
+                {
+                    "groupName": "General",
+                    "statisticsItems": [
+                        {
+                            "name": "Statistics time",
+                            "home": "54",
+                            "away": "54",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 54,
+                            "awayValue": 54,
+                            "renderType": 1,
+                            "key": "time"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Distance",
+                    "statisticsItems": [
+                        {
+                            "name": "Distance Seconds",
+                            "home": "34",
+                            "away": "34",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 34,
+                            "awayValue": 34,
+                            "renderType": 1,
+                            "key": "distanceSeconds"
+                        },
+                        {
+                            "name": "Distance Percent",
+                            "home": "62.96",
+                            "away": "62.96",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 62.96,
+                            "awayValue": 62.96,
+                            "renderType": 1,
+                            "key": "distancePercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Ground",
+                    "statisticsItems": [
+                        {
+                            "name": "Ground Seconds",
+                            "home": "20",
+                            "away": "20",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 20,
+                            "awayValue": 20,
+                            "renderType": 1,
+                            "key": "groundSeconds"
+                        },
+                        {
+                            "name": "Ground Percent",
+                            "home": "37.04",
+                            "away": "37.04",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 37.04,
+                            "awayValue": 37.04,
+                            "renderType": 1,
+                            "key": "groundPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Seconds",
+                            "home": "19",
+                            "away": "19",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 19,
+                            "awayValue": 19,
+                            "renderType": 1,
+                            "key": "groundClinchSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Percent",
+                            "home": "35.19",
+                            "away": "35.19",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 35.19,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Control Seconds",
+                            "home": "0",
+                            "away": "19",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 19,
+                            "renderType": 1,
+                            "key": "groundClinchControlSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "35.19",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchControlPercent"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Takedowns Attempted",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsAttempted"
+                        },
+                        {
+                            "name": "Takedowns Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceeded"
+                        },
+                        {
+                            "name": "Takedowns Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "takedownsReceived"
+                        },
+                        {
+                            "name": "Takedowns Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsDefended"
+                        },
+                        {
+                            "name": "Takedown Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceededPct"
+                        },
+                        {
+                            "name": "Takedown Defense Rate",
+                            "home": "0.00",
+                            "away": "100.00",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 100,
+                            "renderType": 1,
+                            "key": "takedownsDefendedPct"
+                        },
+                        {
+                            "name": "Transitions Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "transitions"
+                        },
+                        {
+                            "name": "Transitions Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "transitionsReceived"
+                        },
+                        {
+                            "name": "Submissions Attempted",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsAttempted"
+                        },
+                        {
+                            "name": "Submissions Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceeded"
+                        },
+                        {
+                            "name": "Submissions Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "submissionsReceived"
+                        },
+                        {
+                            "name": "Submissions Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefended"
+                        },
+                        {
+                            "name": "Submission Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceededPct"
+                        },
+                        {
+                            "name": "Submission Defense Rate",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefendedPct"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Clinch",
+                    "statisticsItems": [
+                        {
+                            "name": "Clinch Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchSeconds"
+                        },
+                        {
+                            "name": "Clinch Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchPercent"
+                        },
+                        {
+                            "name": "Clinch Control Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlSeconds"
+                        },
+                        {
+                            "name": "Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlPercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Strikes",
+                    "statisticsItems": [
+                        {
+                            "name": "Strikes",
+                            "home": "8",
+                            "away": "1",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 8,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "strikesLanded"
+                        },
+                        {
+                            "name": "Strikes Received",
+                            "home": "1",
+                            "away": "8",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 8,
+                            "renderType": 1,
+                            "key": "strikesReceived"
+                        },
+                        {
+                            "name": "Strikes Distance",
+                            "home": "8",
+                            "away": "1",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 8,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "strikesDistance"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Received",
+                            "home": "0",
+                            "away": "2",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 2,
+                            "renderType": 1,
+                            "key": "significantStrikesReceived"
+                        },
+                        {
+                            "name": "Significant Strikes Distance",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistance"
+                        },
+                        {
+                            "name": "Significant Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGround"
+                        },
+                        {
+                            "name": "Significant Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes Distance Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistancePct"
+                        },
+                        {
+                            "name": "Significant Strikes Ground Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGroundPct"
+                        },
+                        {
+                            "name": "Significant Strikes Head",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Body",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Legs",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Head Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadPct"
+                        },
+                        {
+                            "name": "Significant Strikes Body Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyPct"
+                        },
+                        {
+                            "name": "Significant Strikes Legs Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsPct"
+                        },
+                        {
+                            "name": "Knockdowns",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "knockdowns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "period": "ALL15MIN",
+            "groups": [
+                {
+                    "groupName": "General",
+                    "statisticsItems": [
+                        {
+                            "name": "Statistics time",
+                            "home": "900",
+                            "away": "900",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 900,
+                            "awayValue": 900,
+                            "renderType": 1,
+                            "key": "time"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Distance",
+                    "statisticsItems": [
+                        {
+                            "name": "Distance Seconds",
+                            "home": "567",
+                            "away": "567",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 567,
+                            "awayValue": 567,
+                            "renderType": 1,
+                            "key": "distanceSeconds"
+                        },
+                        {
+                            "name": "Distance Percent",
+                            "home": "62.96",
+                            "away": "62.96",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 62.96,
+                            "awayValue": 62.96,
+                            "renderType": 1,
+                            "key": "distancePercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Ground",
+                    "statisticsItems": [
+                        {
+                            "name": "Ground Seconds",
+                            "home": "333",
+                            "away": "333",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 333,
+                            "awayValue": 333,
+                            "renderType": 1,
+                            "key": "groundSeconds"
+                        },
+                        {
+                            "name": "Ground Percent",
+                            "home": "37.04",
+                            "away": "37.04",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 37.04,
+                            "awayValue": 37.04,
+                            "renderType": 1,
+                            "key": "groundPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Seconds",
+                            "home": "317",
+                            "away": "317",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 317,
+                            "awayValue": 317,
+                            "renderType": 1,
+                            "key": "groundClinchSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Percent",
+                            "home": "35.19",
+                            "away": "35.19",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 35.19,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Control Seconds",
+                            "home": "0",
+                            "away": "317",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 317,
+                            "renderType": 1,
+                            "key": "groundClinchControlSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "35.19",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchControlPercent"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Takedowns Attempted",
+                            "home": "17",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsAttempted"
+                        },
+                        {
+                            "name": "Takedowns Succeeded",
+                            "home": "17",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceeded"
+                        },
+                        {
+                            "name": "Takedowns Received",
+                            "home": "0",
+                            "away": "17",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 17,
+                            "renderType": 1,
+                            "key": "takedownsReceived"
+                        },
+                        {
+                            "name": "Takedowns Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsDefended"
+                        },
+                        {
+                            "name": "Takedown Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceededPct"
+                        },
+                        {
+                            "name": "Takedown Defense Rate",
+                            "home": "0.00",
+                            "away": "100.00",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 100,
+                            "renderType": 1,
+                            "key": "takedownsDefendedPct"
+                        },
+                        {
+                            "name": "Transitions Succeeded",
+                            "home": "17",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "transitions"
+                        },
+                        {
+                            "name": "Transitions Received",
+                            "home": "0",
+                            "away": "17",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 17,
+                            "renderType": 1,
+                            "key": "transitionsReceived"
+                        },
+                        {
+                            "name": "Submissions Attempted",
+                            "home": "17",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsAttempted"
+                        },
+                        {
+                            "name": "Submissions Succeeded",
+                            "home": "17",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceeded"
+                        },
+                        {
+                            "name": "Submissions Received",
+                            "home": "0",
+                            "away": "17",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 17,
+                            "renderType": 1,
+                            "key": "submissionsReceived"
+                        },
+                        {
+                            "name": "Submissions Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefended"
+                        },
+                        {
+                            "name": "Submission Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceededPct"
+                        },
+                        {
+                            "name": "Submission Defense Rate",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefendedPct"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Clinch",
+                    "statisticsItems": [
+                        {
+                            "name": "Clinch Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchSeconds"
+                        },
+                        {
+                            "name": "Clinch Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchPercent"
+                        },
+                        {
+                            "name": "Clinch Control Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlSeconds"
+                        },
+                        {
+                            "name": "Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlPercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Strikes",
+                    "statisticsItems": [
+                        {
+                            "name": "Strikes",
+                            "home": "133",
+                            "away": "17",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 133,
+                            "awayValue": 17,
+                            "renderType": 1,
+                            "key": "strikesLanded"
+                        },
+                        {
+                            "name": "Strikes Received",
+                            "home": "17",
+                            "away": "133",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 17,
+                            "awayValue": 133,
+                            "renderType": 1,
+                            "key": "strikesReceived"
+                        },
+                        {
+                            "name": "Strikes Distance",
+                            "home": "133",
+                            "away": "17",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 133,
+                            "awayValue": 17,
+                            "renderType": 1,
+                            "key": "strikesDistance"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes",
+                            "home": "33",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 33,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Received",
+                            "home": "0",
+                            "away": "33",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 33,
+                            "renderType": 1,
+                            "key": "significantStrikesReceived"
+                        },
+                        {
+                            "name": "Significant Strikes Distance",
+                            "home": "33",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 33,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistance"
+                        },
+                        {
+                            "name": "Significant Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGround"
+                        },
+                        {
+                            "name": "Significant Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes Distance Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistancePct"
+                        },
+                        {
+                            "name": "Significant Strikes Ground Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGroundPct"
+                        },
+                        {
+                            "name": "Significant Strikes Head",
+                            "home": "33",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 33,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Body",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Legs",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Head Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadPct"
+                        },
+                        {
+                            "name": "Significant Strikes Body Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyPct"
+                        },
+                        {
+                            "name": "Significant Strikes Legs Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsPct"
+                        },
+                        {
+                            "name": "Knockdowns",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "knockdowns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "period": "1ST",
+            "groups": [
+                {
+                    "groupName": "General",
+                    "statisticsItems": [
+                        {
+                            "name": "Statistics time",
+                            "home": "54",
+                            "away": "54",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 54,
+                            "awayValue": 54,
+                            "renderType": 1,
+                            "key": "time"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Distance",
+                    "statisticsItems": [
+                        {
+                            "name": "Distance Seconds",
+                            "home": "34",
+                            "away": "34",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 34,
+                            "awayValue": 34,
+                            "renderType": 1,
+                            "key": "distanceSeconds"
+                        },
+                        {
+                            "name": "Distance Percent",
+                            "home": "62.96",
+                            "away": "62.96",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 62.96,
+                            "awayValue": 62.96,
+                            "renderType": 1,
+                            "key": "distancePercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Ground",
+                    "statisticsItems": [
+                        {
+                            "name": "Ground Seconds",
+                            "home": "20",
+                            "away": "20",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 20,
+                            "awayValue": 20,
+                            "renderType": 1,
+                            "key": "groundSeconds"
+                        },
+                        {
+                            "name": "Ground Percent",
+                            "home": "37.04",
+                            "away": "37.04",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 37.04,
+                            "awayValue": 37.04,
+                            "renderType": 1,
+                            "key": "groundPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Seconds",
+                            "home": "19",
+                            "away": "19",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 19,
+                            "awayValue": 19,
+                            "renderType": 1,
+                            "key": "groundClinchSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Percent",
+                            "home": "35.19",
+                            "away": "35.19",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 35.19,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchPercent"
+                        },
+                        {
+                            "name": "Ground Clinch Control Seconds",
+                            "home": "0",
+                            "away": "19",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 19,
+                            "renderType": 1,
+                            "key": "groundClinchControlSeconds"
+                        },
+                        {
+                            "name": "Ground Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "35.19",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 35.19,
+                            "renderType": 1,
+                            "key": "groundClinchControlPercent"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Takedowns Attempted",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsAttempted"
+                        },
+                        {
+                            "name": "Takedowns Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceeded"
+                        },
+                        {
+                            "name": "Takedowns Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "takedownsReceived"
+                        },
+                        {
+                            "name": "Takedowns Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsDefended"
+                        },
+                        {
+                            "name": "Takedown Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "takedownsSucceededPct"
+                        },
+                        {
+                            "name": "Takedown Defense Rate",
+                            "home": "0.00",
+                            "away": "100.00",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 100,
+                            "renderType": 1,
+                            "key": "takedownsDefendedPct"
+                        },
+                        {
+                            "name": "Transitions Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "transitions"
+                        },
+                        {
+                            "name": "Transitions Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "transitionsReceived"
+                        },
+                        {
+                            "name": "Submissions Attempted",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsAttempted"
+                        },
+                        {
+                            "name": "Submissions Succeeded",
+                            "home": "1",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceeded"
+                        },
+                        {
+                            "name": "Submissions Received",
+                            "home": "0",
+                            "away": "1",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "submissionsReceived"
+                        },
+                        {
+                            "name": "Submissions Defended",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefended"
+                        },
+                        {
+                            "name": "Submission Success Rate",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsSucceededPct"
+                        },
+                        {
+                            "name": "Submission Defense Rate",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "submissionsDefendedPct"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Clinch",
+                    "statisticsItems": [
+                        {
+                            "name": "Clinch Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchSeconds"
+                        },
+                        {
+                            "name": "Clinch Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchPercent"
+                        },
+                        {
+                            "name": "Clinch Control Seconds",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlSeconds"
+                        },
+                        {
+                            "name": "Clinch Control Percent",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "clinchControlPercent"
+                        }
+                    ]
+                },
+                {
+                    "groupName": "Strikes",
+                    "statisticsItems": [
+                        {
+                            "name": "Strikes",
+                            "home": "8",
+                            "away": "1",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 8,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "strikesLanded"
+                        },
+                        {
+                            "name": "Strikes Received",
+                            "home": "1",
+                            "away": "8",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 1,
+                            "awayValue": 8,
+                            "renderType": 1,
+                            "key": "strikesReceived"
+                        },
+                        {
+                            "name": "Strikes Distance",
+                            "home": "8",
+                            "away": "1",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 8,
+                            "awayValue": 1,
+                            "renderType": 1,
+                            "key": "strikesDistance"
+                        },
+                        {
+                            "name": "Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesGround"
+                        },
+                        {
+                            "name": "Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "strikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Received",
+                            "home": "0",
+                            "away": "2",
+                            "compareCode": 2,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 2,
+                            "renderType": 1,
+                            "key": "significantStrikesReceived"
+                        },
+                        {
+                            "name": "Significant Strikes Distance",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistance"
+                        },
+                        {
+                            "name": "Significant Strikes Ground",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGround"
+                        },
+                        {
+                            "name": "Significant Strikes Clinch",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesClinch"
+                        },
+                        {
+                            "name": "Significant Strikes Distance Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesDistancePct"
+                        },
+                        {
+                            "name": "Significant Strikes Ground Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesGroundPct"
+                        },
+                        {
+                            "name": "Significant Strikes Head",
+                            "home": "2",
+                            "away": "0",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 2,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Body",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Legs",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsLanded"
+                        },
+                        {
+                            "name": "Significant Strikes Head Percentage",
+                            "home": "100.00",
+                            "away": "0.00",
+                            "compareCode": 1,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 100,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesHeadPct"
+                        },
+                        {
+                            "name": "Significant Strikes Body Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesBodyPct"
+                        },
+                        {
+                            "name": "Significant Strikes Legs Percentage",
+                            "home": "0.00",
+                            "away": "0.00",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "significantStrikesLegsPct"
+                        },
+                        {
+                            "name": "Knockdowns",
+                            "home": "0",
+                            "away": "0",
+                            "compareCode": 3,
+                            "statisticsType": "positive",
+                            "valueType": "event",
+                            "homeValue": 0,
+                            "awayValue": 0,
+                            "renderType": 1,
+                            "key": "knockdowns"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
