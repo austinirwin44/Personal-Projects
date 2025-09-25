@@ -4,3 +4,6 @@
 .venv/
 .vscode/
 distilbert-base-uncased-lora-text-classification/
+
+.env
+config.json
